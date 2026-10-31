@@ -5,23 +5,23 @@ class Blaise < Formula
 
   on_macos do
     on_arm do
-      url "https://github.com/BlaiseAgent/cli/releases/download/v2026.10.5/blaise-2026.10.5-darwin-arm64.tar.gz"
-      sha256 "643e98a213d6e78a301b6737896de47e4a5a4bc961efe4652e8575617af46a16"
+      url "https://github.com/BlaiseAgent/cli/releases/download/v2026.10.6/blaise-2026.10.6-darwin-arm64.tar.gz"
+      sha256 "5afb55c055995d47cafa19928183bb2ac674ecf9229bbbb3f58c2b6686b952c4"
     end
     on_intel do
-      url "https://github.com/BlaiseAgent/cli/releases/download/v2026.10.5/blaise-2026.10.5-darwin-x64.tar.gz"
-      sha256 "5e2f56d33edc9d3b2953a1f92f617de5a5c6eb3d0eed5a0682c11496b3f98815"
+      url "https://github.com/BlaiseAgent/cli/releases/download/v2026.10.6/blaise-2026.10.6-darwin-x64.tar.gz"
+      sha256 "838320ccbf6fc90a231437f4030162d2f2a2a3b39a6dd047b09767e27e54c820"
     end
   end
 
   on_linux do
     on_arm do
-      url "https://github.com/BlaiseAgent/cli/releases/download/v2026.10.5/blaise-2026.10.5-linux-arm64.tar.gz"
-      sha256 "05aa608921075a901eaefefab88b62fbaebab4d799554fef4822ac3437a6a904"
+      url "https://github.com/BlaiseAgent/cli/releases/download/v2026.10.6/blaise-2026.10.6-linux-arm64.tar.gz"
+      sha256 "bde8908126de70efee5cfff46bf470013b7e7ab8b71e337fcb0c6064d4367b1e"
     end
     on_intel do
-      url "https://github.com/BlaiseAgent/cli/releases/download/v2026.10.5/blaise-2026.10.5-linux-x64.tar.gz"
-      sha256 "67d3bda89271d2b1325b90e509d5ac9740cf6162a30428c10a20c506c703d972"
+      url "https://github.com/BlaiseAgent/cli/releases/download/v2026.10.6/blaise-2026.10.6-linux-x64.tar.gz"
+      sha256 "7ee162816e8dd7ff745268d2d9db25b888953ad18686fcb53d299b8946ad4988"
     end
   end
 
